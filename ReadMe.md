@@ -1,5 +1,5 @@
 
-
+![PomoLong](Pomo.gif)
 
 # Simple Pomodoro Tracker 
 
